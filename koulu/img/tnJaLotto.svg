@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="401.5625mm"
+   height="567.5061mm"
+   viewBox="0 0 401.5625 567.5061"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="tnJaLotto.svg"
+   inkscape:export-filename="C:\Users\markkuleino\Documents\GitHub\koulu\img\tnJaLotto.png"
+   inkscape:export-xdpi="64.749954"
+   inkscape:export-ydpi="64.749954">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="577.52169"
+     inkscape:cy="462.02986"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1455"
+     inkscape:window-height="940"
+     inkscape:window-x="9"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.455213,-10.803122)">
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.86500001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1149"
+       width="76.713432"
+       height="40.538422"
+       x="151.56845"
+       y="537.77081" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.85457802px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="120.24169"
+       y="34.914474"
+       id="text817"
+       transform="scale(0.62043073,1.6117835)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="120.24169"
+         y="34.914474"
+         style="stroke-width:0.26458332">Todennänköisyyslaskentaa pelien avulla.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.339286"
+       y="35.440475"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="11.339286"
+         y="35.440475"
+         style="stroke-width:0.26458332">1. Nopan heitto</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="44.259918"
+         style="stroke-width:0.26458332"
+         id="tspan823">2. Lotto</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="53.079365"
+         style="stroke-width:0.26458332"
+         id="tspan825">3. Ruletti</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="61.898808"
+         style="stroke-width:0.26458332"
+         id="tspan827">4. Pokeri</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="70.718254"
+         style="stroke-width:0.26458332"
+         id="tspan829" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.2678571"
+       y="82.6875"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="2.2678571"
+         y="82.6875"
+         style="stroke-width:0.26458332">Millä todennäköisyydellä saat kolmella nopalla kolme kutosta?</tspan><tspan
+         sodipodi:role="line"
+         x="2.2678571"
+         y="91.506943"
+         style="stroke-width:0.26458332"
+         id="tspan835">V: 6ja6ja6 eli (1/6)x(1/6)x(1/6) = 1/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan837">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.8108516"
+       y="107.50591"
+       id="text841"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="4.8108516"
+         y="107.50591"
+         style="stroke-width:0.26458332">Millä todennäköisyydellä saat kolmella nopalla yhden kutosen?</tspan><tspan
+         sodipodi:role="line"
+         x="4.8108516"
+         y="116.32536"
+         style="stroke-width:0.26458332"
+         id="tspan843">V: 6jaEi-6jaEi-6 tai Ei-6ja6jaEi-6 tai Ei-6jaEi-6ja6 eli</tspan><tspan
+         sodipodi:role="line"
+         x="4.8108516"
+         y="125.1448"
+         style="stroke-width:0.26458332"
+         id="tspan845">(1/6)x(5/6)x(5/6) + (5/6)x(1/6)x(5/6) + (5/6)x(5/6)x(1/6)</tspan><tspan
+         sodipodi:role="line"
+         x="4.8108516"
+         y="133.96425"
+         style="stroke-width:0.26458332"
+         id="tspan847">= 3 x 5 x 5 / 6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan849">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.1471992"
+       y="147.59633"
+       id="text853"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="6.1471992"
+         y="147.59633"
+         style="stroke-width:0.26458332">Millä todennäköisyydellä saat <tspan
+   style="font-style:italic"
+   id="tspan867">vähintään</tspan> yhden kutosen?</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="156.41577"
+         style="stroke-width:0.26458332"
+         id="tspan869">Eli saat yhden kutosen, kaksi kutosta tai kolme kutosta.</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="165.23521"
+         style="stroke-width:0.26458332"
+         id="tspan871">V.</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="174.05466"
+         style="stroke-width:0.26458332"
+         id="tspan873">Yksi kutonen laskettiin yllä</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="182.8741"
+         style="stroke-width:0.26458332"
+         id="tspan875">Kolme kutosta laskettiin yllä</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="191.69354"
+         style="stroke-width:0.26458332"
+         id="tspan877">Kaksi kutosta vielä:</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="200.513"
+         style="stroke-width:0.26458332"
+         id="tspan890">6ja6jaEi-6 tai 6jaEi-6ja6 tai Ei-6ja6ja6 eli</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="209.33244"
+         style="stroke-width:0.26458332"
+         id="tspan886">(1/6)x(1/6)x(5/6) + (1/6)x(5/6)x(1/6) + (5/6)x(1/6)x(1/6)</tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="218.15189"
+         style="stroke-width:0.26458332"
+         id="tspan888">= 3 x 5 / 6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan892">3</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="6.1471992"
+         y="226.97133"
+         style="stroke-width:0.26458332"
+         id="tspan879" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.70088196px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-14.9002"
+       y="102.14397"
+       id="text857"
+       transform="scale(1.0911898,0.91643085)"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="-14.9002"
+         y="102.14397"
+         style="stroke-width:0.26458332">1</tspan></text>
+    <text
+       transform="scale(1.0911898,0.91643085)"
+       id="text861"
+       y="134.5162"
+       x="-14.410332"
+       style="font-style:normal;font-weight:normal;font-size:21.70088196px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="134.5162"
+         x="-14.410332"
+         id="tspan859"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.70088196px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-14.9002"
+       y="168.92993"
+       id="text865"
+       transform="scale(1.0911898,0.91643085)"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="-14.9002"
+         y="168.92993"
+         style="stroke-width:0.26458332">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.0180855"
+       y="227.77719"
+       id="text896"><tspan
+         sodipodi:role="line"
+         id="tspan894"
+         x="8.0180855"
+         y="234.0197"
+         style="stroke-width:0.26458332" /><tspan
+         sodipodi:role="line"
+         x="8.0180855"
+         y="242.83914"
+         style="stroke-width:0.26458332"
+         id="tspan898">Lasketaan ne kaikki yhteen:</tspan><tspan
+         sodipodi:role="line"
+         x="8.0180855"
+         y="251.6586"
+         style="stroke-width:0.26458332"
+         id="tspan900">1/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan906">3</tspan> + 3x5x5/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan904">3</tspan> + 3x5/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan902">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.6126599"
+       y="259.04773"
+       id="text910"><tspan
+         sodipodi:role="line"
+         id="tspan908"
+         x="5.6126599"
+         y="259.04773"
+         style="stroke-width:0.26458332">=1/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan916">3</tspan> + 75/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan914">3</tspan> + 15/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan912">3</tspan> = 91/6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan918">3</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.90671539px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-1.4794461"
+       y="322.40878"
+       id="text922"
+       transform="scale(0.99227711,1.007783)"><tspan
+         sodipodi:role="line"
+         id="tspan920"
+         x="-1.4794461"
+         y="322.40878"
+         style="stroke-width:0.26458332">Lotto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-2.9399648"
+       y="346.71213"
+       id="text926"><tspan
+         sodipodi:role="line"
+         id="tspan924"
+         x="-2.9399648"
+         y="346.71213"
+         style="stroke-width:0.26458332">Idea: 39 numeroa joista pitää valita seitsemän oikein.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.5435815"
+       y="361.6792"
+       id="text930"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="4.5435815"
+         y="361.6792"
+         style="stroke-width:0.26458332">39x38x37x36x35x34x33 =  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.81626415px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.7220855"
+       y="594.45386"
+       id="text934"
+       transform="scale(1.6769347,0.59632614)"><tspan
+         sodipodi:role="line"
+         id="tspan932"
+         x="4.7220855"
+         y="594.45386"
+         style="stroke-width:0.26458332">7 numeroa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.3544331"
+       y="371.56818"
+       id="text938"><tspan
+         sodipodi:role="line"
+         id="tspan936"
+         x="9.3544331"
+         y="371.56818"
+         style="stroke-width:0.26458332">Saa tulla monessa eri järjestyksessä: TAI eli lasketaan yhteen</tspan></text>
+    <text
+       id="text942"
+       y="383.59531"
+       x="0.53453857"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="383.59531"
+         x="0.53453857"
+         id="tspan940"
+         sodipodi:role="line">39x38x37x36x35x34x33   </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -0.80180861,384.39714 H 90.06983"
+       id="path944"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.165283"
+       y="391.61343"
+       id="text948"><tspan
+         sodipodi:role="line"
+         id="tspan946"
+         x="14.165283"
+         y="391.61343"
+         style="stroke-width:0.26458332">1x2x3x4x5x6x7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.958801"
+       y="385.19894"
+       id="text952"><tspan
+         sodipodi:role="line"
+         id="tspan950"
+         x="99.958801"
+         y="385.19894"
+         style="stroke-width:0.26458332">= 15 380 937 eri tapaa järjestää</tspan><tspan
+         sodipodi:role="line"
+         x="99.958801"
+         y="394.0184"
+         style="stroke-width:0.26458332"
+         id="tspan954">seitsemän lottonumeroa.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-7.2162771"
+       y="404.44235"
+       id="text958"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         x="-7.2162771"
+         y="404.44235"
+         style="stroke-width:0.26458332">Todennäköisyys saada pääpalkinto on 1/15380937 = 0.0000065%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-2.9399648"
+       y="421.28033"
+       id="text962"><tspan
+         sodipodi:role="line"
+         id="tspan960"
+         x="-2.9399648"
+         y="421.28033"
+         style="stroke-width:0.26458332">Miten saadaan <tspan
+   style="font-size:14.11111069px"
+   id="tspan964">6</tspan> oikein? Tarkoittaa, että kuusi on oikein ja yksi väärin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.105249"
+       y="432.50565"
+       id="text968"><tspan
+         sodipodi:role="line"
+         id="tspan966"
+         x="17.105249"
+         y="432.50565"
+         style="stroke-width:0.26458332">-Valitaan kuusi oikein seitsemästä:</tspan><tspan
+         sodipodi:role="line"
+         x="17.105249"
+         y="441.3251"
+         style="stroke-width:0.26458332"
+         id="tspan972">-Ja yksi 32:sta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-7.4835472"
+       y="469.38882"
+       id="text991"><tspan
+         sodipodi:role="line"
+         id="tspan989"
+         x="-7.4835472"
+         y="469.38882"
+         style="stroke-width:0.26458332">39x38x37x36x35x34x33   </tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path993"
+       d="M -8.8198944,470.19066 H 82.051744"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text997"
+       y="477.40695"
+       x="6.1471972"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="477.40695"
+         x="6.1471972"
+         id="tspan995"
+         sodipodi:role="line">1x2x3x4x5x6x7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-10.423512"
+       y="458.43079"
+       id="text1001"><tspan
+         sodipodi:role="line"
+         id="tspan999"
+         x="-10.423512"
+         y="458.43079"
+         style="stroke-width:0.26458332">Ongelma: Tuon alla olevan kirjoittaminen on tuskaa:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.99497"
+       y="468.58704"
+       id="text1005"><tspan
+         sodipodi:role="line"
+         id="tspan1003"
+         x="115.99497"
+         y="468.58704"
+         style="stroke-width:0.26458332">39!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="185.48506"
+       y="446.67093"
+       id="text1009"><tspan
+         sodipodi:role="line"
+         id="tspan1007"
+         x="185.48506"
+         y="446.67093"
+         style="stroke-width:0.26458332">Kertoma! on </tspan><tspan
+         sodipodi:role="line"
+         x="185.48506"
+         y="455.49039"
+         style="stroke-width:0.26458332"
+         id="tspan1011">huutomerkki</tspan><tspan
+         sodipodi:role="line"
+         x="185.48506"
+         y="464.30981"
+         style="stroke-width:0.26458332"
+         id="tspan1013">3! = 1x2x3</tspan><tspan
+         sodipodi:role="line"
+         x="185.48506"
+         y="473.12927"
+         style="stroke-width:0.26458332"
+         id="tspan1015">eli 39! = 1x2x3x4x...x37x38x39</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.90781,470.99246 29.93418,0.26725"
+       id="path1017"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="87.397133"
+       y="472.32883"
+       id="text1021"><tspan
+         sodipodi:role="line"
+         id="tspan1019"
+         x="87.397133"
+         y="472.32883"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.98592"
+       y="478.74326"
+       id="text1025"><tspan
+         sodipodi:role="line"
+         id="tspan1023"
+         x="111.98592"
+         y="478.74326"
+         style="stroke-width:0.26458332">7! 32!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="174.52701"
+       y="488.89951"
+       id="text1029"><tspan
+         sodipodi:role="line"
+         id="tspan1027"
+         x="174.52701"
+         y="495.14203"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.961315"
+       y="493.97763"
+       id="text1033"><tspan
+         sodipodi:role="line"
+         id="tspan1031"
+         x="41.961315"
+         y="493.97763"
+         style="stroke-width:0.26458332">39!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="44.366741"
+       y="503.33209"
+       id="text1037"><tspan
+         sodipodi:role="line"
+         id="tspan1035"
+         x="44.366741"
+         y="503.33209"
+         style="stroke-width:0.26458332">32!</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.348656,496.11578 H 56.928408"
+       id="path1039"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.67923"
+       y="497.98669"
+       id="text1043"><tspan
+         sodipodi:role="line"
+         id="tspan1041"
+         x="64.67923"
+         y="497.98669"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58197498px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="83.392578"
+       y="491.87451"
+       id="text1047"><tspan
+         sodipodi:role="line"
+         id="tspan1045"
+         x="83.392578"
+         y="491.87451"
+         style="stroke-width:0.26458332"><tspan
+   style="fill:#ff0000"
+   id="tspan1055">1x2x3x4x5x6x7x8x9x10x11x12x13x14x15x16x17x18x19x20x21x22x23x24z25x26x27x28x29x30x31x32x</tspan>33x34x35x36x37x38x39</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.844509,494.51217 H 372.03917"
+       id="path1049"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1053"
+       y="499.89261"
+       x="83.392578"
+       style="font-style:normal;font-weight:normal;font-size:4.58197498px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ff0000;stroke-width:0.26458332"
+         y="499.89261"
+         x="83.392578"
+         id="tspan1051"
+         sodipodi:role="line">1x2x3x4x5x6x7x8x9x10x11x12x13x14x15x16x17x18x19x20x21x22x23x24z25x26x27x28x29x30x31x32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="347.74899"
+       y="332.44205"
+       id="text1059"
+       transform="rotate(30)"><tspan
+         sodipodi:role="line"
+         id="tspan1057"
+         x="347.74899"
+         y="332.44205"
+         style="stroke-width:0.26458332">Yksi oikein </tspan><tspan
+         sodipodi:role="line"
+         x="347.74899"
+         y="341.26151"
+         style="stroke-width:0.26458332"
+         id="tspan1061">seitsemästä</tspan></text>
+    <text
+       id="text1067"
+       y="522.04095"
+       x="-2.405426"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="522.04095"
+         x="-2.405426"
+         id="tspan1063"
+         sodipodi:role="line">-Valitaan kuusi oikein seitsemästä:</tspan><tspan
+         id="tspan1065"
+         style="stroke-width:0.26458332"
+         y="530.86041"
+         x="-2.405426"
+         sodipodi:role="line">-Ja yksi 32:sta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="140.85104"
+       y="519.10101"
+       id="text1071"><tspan
+         sodipodi:role="line"
+         id="tspan1069"
+         x="140.85104"
+         y="519.10101"
+         style="stroke-width:0.26458332">7!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="135.50565"
+       y="528.98993"
+       id="text1075"><tspan
+         sodipodi:role="line"
+         id="tspan1073"
+         x="135.50565"
+         y="528.98993"
+         style="stroke-width:0.26458332">6! 1!</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.62572,520.97185 h 26.72695"
+       id="path1077"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.652096"
+       y="532.73175"
+       id="text1081"><tspan
+         sodipodi:role="line"
+         id="tspan1079"
+         x="52.652096"
+         y="532.73175"
+         style="stroke-width:0.26458332">32!</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.910324,535.40442 c 1.313646,-0.352 18.441596,0 18.441596,0"
+       id="path1083"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.712132"
+       y="543.15521"
+       id="text1087"><tspan
+         sodipodi:role="line"
+         id="tspan1085"
+         x="49.712132"
+         y="543.15521"
+         style="stroke-width:0.26458332">1!31!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-5.8799295"
+       y="556.25146"
+       id="text1091"><tspan
+         sodipodi:role="line"
+         id="tspan1089"
+         x="-5.8799295"
+         y="556.25146"
+         style="stroke-width:0.26458332">Vielä: Tn saada kuusi oikein lotossa on</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.63476,547.43154 3.47451,-13.63076"
+       id="path1093"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.48756,548.76789 c -4.54358,-1.33635 -53.4539,-14.43257 -53.4539,-14.43257 -6.68174,1.0691 5.078121,-1.06906 -0.801809,2e-5"
+       id="path1095"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1099"
+       y="547.69885"
+       x="170.78523"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="547.69885"
+         x="170.78523"
+         id="tspan1097"
+         sodipodi:role="line">7!</tspan></text>
+    <text
+       id="text1103"
+       y="557.58777"
+       x="165.43983"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="557.58777"
+         x="165.43983"
+         id="tspan1101"
+         sodipodi:role="line">6! 1!</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1105"
+       d="m 159.55991,549.56969 h 26.72695"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text1109"
+       y="546.89703"
+       x="196.71037"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="546.89703"
+         x="196.71037"
+         id="tspan1107"
+         sodipodi:role="line">32!</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1111"
+       d="m 192.9686,549.5697 c 1.31365,-0.352 18.4416,0 18.4416,0"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text1115"
+       y="557.3205"
+       x="193.7704"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="557.3205"
+         x="193.7704"
+         id="tspan1113"
+         sodipodi:role="line">1!31!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="188.69229"
+       y="551.17328"
+       id="text1119"><tspan
+         sodipodi:role="line"
+         id="tspan1117"
+         x="188.69229"
+         y="551.17328"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.21452,561.32957 h 66.55011"
+       id="path1121"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.90529"
+       y="569.08038"
+       id="text1125"><tspan
+         sodipodi:role="line"
+         id="tspan1123"
+         x="164.90529"
+         y="569.08038"
+         style="stroke-width:0.26458332">15 380 937</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="235.19717"
+       y="562.66589"
+       id="text1129"><tspan
+         sodipodi:role="line"
+         id="tspan1127"
+         x="235.19717"
+         y="562.66589"
+         style="stroke-width:0.26458332">= </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="252.8101"
+       y="556.78595"
+       id="text1133"><tspan
+         sodipodi:role="line"
+         id="tspan1131"
+         x="252.8101"
+         y="556.78595"
+         style="stroke-width:0.26458332">7 x 32</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 244.81889,561.06229 h 31.00325"
+       id="path1135"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="244.55159"
+       y="569.08032"
+       id="text1139"><tspan
+         sodipodi:role="line"
+         id="tspan1137"
+         x="244.55159"
+         y="569.08032"
+         style="stroke-width:0.26458332">15 380 937</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.05085182px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="168.70526"
+       y="534.61963"
+       id="text1143"><tspan
+         sodipodi:role="line"
+         id="tspan1141"
+         x="168.70526"
+         y="534.61963"
+         style="fill:#0000ff;stroke-width:0.26458332">6</tspan></text>
+    <text
+       id="text1147"
+       y="533.86365"
+       x="197.43144"
+       style="font-style:normal;font-weight:normal;font-size:16.05085182px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#0000ff;stroke-width:0.26458332"
+         y="533.86365"
+         x="197.43144"
+         id="tspan1145"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+</svg>
