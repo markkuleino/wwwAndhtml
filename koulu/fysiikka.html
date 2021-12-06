@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Fysiikan kertausta</title>
+  <meta name="description" content="">
+  <meta name="author" content="@MarkkuOpe">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<!--
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+-->
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/skeleton.css">
+<!--
+  <script src="js/jquery.min.js"></script>
+-->
+
+<link rel="stylesheet" href="css/default.css">
+<!--
+
+<script src="js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+-->
+
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+
+
+<style>
+
+.targetDiv{
+  display:none;
+}
+
+.tehtava{
+	color: red;
+	font-size:125%
+}
+
+body{
+	background-color: #CEF6CE;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+ 	font-family: "Times";
+	font-size:120%;
+}
+
+.teoria{
+    border-style: double;
+    margin: 10px;
+    padding: 15px;
+}
+
+.optiikka{
+	background-color: #D0FA58;
+} 
+.mekaniikka{
+	background-color: rgb(88, 177, 250);
+} 
+
+</style>
+
+</head>
+
+<body>
+
+
+
+    <!-- Primary Page Layout
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div class="container">
+  
+  
+  <h1>Fysiikan kertausta</h1> 
+  <h3>Laskemalla</h3>
+  <p>Tästä irtoaa ja lähtee. Lähtökohta on <a href="https://opik.fyysika.ee/">opik.fyysika.ee</a> ja sieltä kirjat <a href="https://opik.fyysika.ee/index.php/book/view/36#/section/9920">Fyysika 8. klassile</a> ja <a href="https://opik.fyysika.ee/index.php/book/view/70#/section/14006">Fyysika 9. klassile.</a></p>
+
+<p>Lisäksi apuna Viron fysiikkaolympialaisten tehtäviä, <a href="http://efo.fyysika.ee/">Eesti füüsikaolümpiaad</a></p>
+
+  <div class="row">
+<div class="five columns">
+    <a href="https://opik.fyysika.ee/index.php/book/view/36#/section/9920"><img class="u-fullwidth" src="img/fysiikka/fuusika8lk.png" ></a>
+</div>
+<div class="five columns">
+    <a href="https://opik.fyysika.ee/index.php/book/view/70#/section/14006"><img class="u-fullwidth" src="img/fysiikka/fuusika9lk.png" ></a>
+</div>
+
+
+  </div>
+
+
+  <div class="optiikka">
+<h2>Optiikka</h2>
+
+<h3>1.1 Valo ja valonlähteet</h3>
+
+<p>Näkyvän valon aallonpituudet?</p>
+
+<p>Kumpi valonlähde, kynttilän liekki vai kaasu-uuni palaa korkeammassa lämpötilassa?</p>
+
+
+<h3>1.2 Valo on energiaa</h3>
+
+<p>Mistä auringon energia on peräisin?</p>
+
+<p>Mikä valon väri on energeettisin?</p>
+
+<P>Miten ihminen aistii infrapunavalon?</P>
+
+<p>Mitä valoa kutsutaan kylmäksi valoksi?</p>
+
+
+<h3>1.3 Aurinko, tähti</h3>
+
+<p>Mikä aiheuttaa Auringon purkaukset?</p>
+
+<p>Onko kaikilla tähdillä sama lämpötila? Mikä on Auringon lämpötila? Mikä on tähden suurin mahdollinen lämpötila?</p>
+
+<p>Mikä tähti on meitä lähinnä? Kuinka kaukana se on? Entä toiseksi lähin tähti, mikä on sen etäisyys?</p>
+
+<p>Mistä revotulet aiheutuvat?</p>
+
+<p>Projekti: <a href="https://opik.fyysika.ee/index.php/slide/repository#/filter/book=36&section=34118">Mittaa Auringon halkaisija</a> (Mart Kuurme, Horizon 8/1998). Tarvitset. . .
+</p>
+
+<p>Van Allenin vyöhykkeet ja miten <a href="https://opik.fyysika.ee/index.php/slide/repository#/filter/book=36&section=34118">kuulennoissa suojauduttiin</a> varatuilta hiukkailta</p>
+
+<p><a href="https://opik.fyysika.ee/index.php/slide/repository#/filter/book=36&section=34118">Aurinkotuuli</a> </p>
+
+<p>Aurinkotuuli ja auringonpilkut. <a href="https://opik.fyysika.ee/index.php/slide/repository#/filter/book=36&section=34118">Video</a></p>
+
+
+
+<h3>1.4 Näkyvän valon spektri</h3>
+
+
+<div class="row">
+    <div class="seven columns">
+        <p>Kuvassa on UGV 2936 -nimisen galaksin spektriä kapealla aallonpituuskaistalla. Graafin x-akseli näyttää aallonpituudet ja y-akseli on etäisyys galaksin ytimestä. Mitä tummempi kohta on, sitä enemmän valoa emittoituu tällä aallonpituudella. Miksi galaksin eri päissä emittoitunut valo on eri aallonpituudella? Vastausvaihtoehdot:
+            <ul>
+                <li>(1) galaksi pyörii</li>
+                <li>(2) galaksi lähestyy meitä</li>
+                <li>(3) galaksi loittonee meistä</li>
+                <li>(4) galaksin eri päissä on erilaisia tähtiä</li>
+            </ul> 
+        </p>
+
+
+    </div>
+    <div class="five columns">
+<img class="u-full-width" src="img/fysiikka/ugv2936.png">
+        
+    </div>
+</div>
+
+
+
+<h3>1.5 Valon suodattimet</h3>
+
+
+<h3>1.6 Valon suoraviivainen eteneminen</h3>
+
+<h3>1.7 Valonnopeus</h3>
+
+<div class="teoria">
+Taitekerroin \( n \).    
+    </div>
+
+
+<div class="row">
+    <div class="five columns">
+        <p>Ensimmäisen mittauksen valon nopeudesta teki herra Ole Christensen Rømer vuonna 1675 tutkiessaan Jupiterin  Io-kuun liikettä. Ion rata on lähes samassa tasossa kuin Maan rata, joten Io ajoittain ja säännällisesti katoaa Jupiterin varjon alle piiloon, eli tapahtuu siis Io-kuun pimennys. Kahden peräkkäisen pimennyksen välinen aika on noin 42,5 tuntia, eli Io kiertää Jupiterin tuossa ajassa. Aika kuitenkin vaihtelee 15 sekuntia riippuen Maan, Auringon ja Jupiterin keskinäisestä sijainnista. Laske valon nopeus, kun tiedät, että Maan ja Auringon välinen etäisyys on \(1.5 \times10^8\) km.</p>
+
+    </div>
+
+<div class="seven columns">
+<p>Piirrä kuva, missä näkyy Aurinko, Maa, Jupiter ja Io sekä niiden kiertoradat. Huomaa, että (lähes) kaikki planeetat ja kuut kiertävät samaan suuntaa. Merkitse kuvaan vielä Jupiterin aiheuttama varjo sen taakse. Sieltä Io tulee aina ajoittain näkyviin.</p>
+
+<p>Kuvasta pohdi, missä kohtaa Maa on, kun Io tulee näkyviin. Sitten pitää laskea, missä Maa sijaitsee, kun Io tulee seuraavan kerran näkyviin.</p>
+
+<p>Mieti, missä kohtaa Maa loittonee nopeiten Io:sta, eli löytyykö se paikka, jossa saadaan tuo 15 sekunnin vaihtelu.</p>
+
+<p>Laske, kuinka pitkän matkan Maa kulkee 42,5 tunnissa eli ajassa, joka kestää Ion pimennyksestä toiseen. <em>Vihje:</em> ympyrän kehä ja verranollisuus. </p>
+<p>Tämän ylimääräisen matkan kulkemiseen valolla kestää 15 sekuntia. Laske siis nopeus.</p>
+
+
+</div>
+</div>
+
+<p>Kun tiedät, että valolta kestää matka Auringosta Maahan 8 minuuttia ja 20 sekuntia, laske Maan ja Auringon välinen etäisyys kilometreinä. </p>
+
+
+
+<p>Kuinka kauan valolta kestää kulkea 0,5 cm paksun lasin läpi. <em>Vihje:</em> Etsi jostain lasin taitekerroin, ja muista että valon nopeus lasissa on valon nopeus ilmassa jaettuna lasin taitekertoimella.</p>
+
+<p>Jos tennispallon vauhti olis 90% valonnopeusta, kuinka monta kilometriä se etenee sekunnissa? Mitä silloin tapahtuisi?</p>
+
+
+<p>Michelsonin interferometri ja valonnopeus. Lue <a href="https://opik.fyysika.ee/index.php/book/section/3703#/section/3703">Valon kilparata</a></p>
+  $$E=mc^2$$. 
+
+
+<h3>1.8 Värit varjot ja kuun vaiheet</h3>
+
+<h3>1.9 Valon heijastuminen</h3>
+
+<div class="teoria">
+Heijastuslain mukaan tulokulma \( \alpha \) on yhtäsuuri kuin heijastuskulma \( \beta \), eli
+$$\alpha = \beta$$
+
+</div>
+
+<p>Tulokulma kasvaa 10\( ^\circ\). Mitä tapahtuu heijastuskulmalle?</p>
+
+<p>Katselet Kuun heijastusta peilityynestä lammesta. Kun kävelet poispäin, mitä tapahtuu heijastukselle; liikkuuko se johonkin suuntaan, ja mihin? <em>Vihje</em>: Piirrä kuva, kahdesta eri tapauksesta, kaukana ja lähellä lampea.</p>
+
+
+<div class="row">
+<div class="seven columns">
+<p>Pisteessä A oleva silmä tuijottaa peilin pisteeseen P. Minkä lampun silmä Näkee? Perustele. </p>
+</div>
+<div class="five columns">
+    <img class="u-full-width" src="img/fysiikka/peiliSilma.png">
+</div>
+</div>
+
+<p>Tulokulman ja heijastuskulman välinen kulma on \(90^\circ\). Mikä on tulokulma? </p>
+
+<P>Miten peilin kuvan etäisyys kohteesta muuttuu, kun peili siirretään sinne, missä kuva oli äsken?</P>
+
+<p>Olet peilityynen järven rannalla ja katselet auringon kuvaa järvestä. Miten kuva muuttuu, kun kävelet kohti rantaa? Auringon säteet ovat samansuuntaisia.</p>
+
+<p>Tasopeiliin tulevan säteen tulokuma on 30 astetta. Mikä on tulokulman ja heijastuskulman välinen kulma?</p>
+
+
+<h3>1.10 Näkeminen, värit.</h3>
+
+<h3>1.11 Tasopeili, symmetriat.</h3>
+
+<p>Lapsi katsoo peilityynen lammen pintaa ja näkee Auringon lammessa. Piirrä kuvaan lapsi, lampi, peili, aurinko ja sen kuva. Mihin suuntaan lapsi katsoo, jotta näkee auringon vedessä?</p>
+
+
+<p>Kun katsot pimeällä ikkunasta ulos, näet heijastuksesi ikkunassa. Miksi niitä on yleensä 2 tai kolme?</p>
+
+<p>Lähestyt peiliä nopeudella 2 m/s. Millä nopeudella peilikuvasi lähestyy sinua?</p>
+
+
+<p>Kärpänen lähestyy peiliä kohtisuoraan nopeudella 1 m/s. Kuinka nopeasti peilin pitää liikkua, jotta kärpäsen kuva pysyy paikallaan?  </p>
+
+<p>Isossa huoneessa on 2 metriä leveä peili. Peilin lähellä, 1/2 metriä peilistä ja 1 m seinästä seisoo ihminen, joka katsoo peiliin. Kaveri lähestyy kohtisuoraan peiliä sen keskipisteestä, mutta toiselta puolen huonetta. Kuinka kaukana hän on, kun toinen näkee hänet peilin kautta?</p>
+
+<p>Kaksi peiliä ovat 45\( ^\circ \) kulmassa toisiinsa nähden. Peilien välissä on palava kynttilä. Kuinka monta kynttilän kuvaa voi nähdä peileistä?</p>
+
+
+
+<p>Esineen ja tasopeilin välinen etäisyys on 0.3 cm. Kuinka suuri on esineen ja sen kuvan välinen etäisyys?</p>
+
+<p>Kuinka kaukana esine on peilistä, jos välimatka esineen ja sen kuvan välillä on 0.8 m?</p>
+
+<p>Pariisin Pierre parvekkeellaan pieni peili kädessään katseli Eiffel-tornia. Peilin korkeus on 5 cm. Kun peili on 40 cm päässä hänen naamastaan, koko Eiffel-torni mahtui peiliin. Kuinka kaukana Pierre silloin oli? Eiffel-tornin korkeus on 312 m.</p>
+
+
+<h3>1.12 Kupera ja kovera peili</h3>
+
+<h3>1.13 Valon taittuminen</h3>
+
+<div class="teoria">
+    Valon kulku on suoraviivaista. Tullessaan optisesti erilaisesta aineesta toiseen, valo taittuu. Valon tullessa optisesta harvemmasta aineesta optisesti tiheämpään, se taittuu pinnan <em>normaaliin</em> päin. 
+    
+</div>
+
+<ol>
+
+    <div class="row">
+        <div class="eight columns">
+            <li>Jatka valon liikettä oheisissa tilanteissa. <em>Vihje</em> Piirrä normaali ja tulokulma sekä arvioi taitekulma. Piirrä taittunut säde. </li>
+
+
+        </div>
+        <div class="four columns">
+            <a href="img/fysiikka/valontaittuminen.png"><img class="u-full-width" src="img/fysiikka/valontaittuminen.png"></a>
+            
+        </div>
+
+    </div>
+
+
+    <div class="row">
+        <div class="eight columns">
+            <li>Jatka valon (lasireunaisessa) vesitynnyrissä. <em>Vihje</em> Piirrä normaali ja tulokulma sekä arvioi taitekulma. Piirrä taittunut säde. </li>
+
+
+        </div>
+        <div class="four columns">
+            <a href="img/fysiikka/valontaittuminen.png"><img class="u-full-width" src="img/fysiikka/valosylinteri.png"></a>
+            
+        </div>
+
+    </div>
+
+    <li>Mikä on suurin mahdollinen taitekulma?</li>
+
+
+</ol>
+
+
+<h3>1.14 Esineen ja kuvan sijainti</h3>
+
+<h3>1.15 Valon kokonaisheijastuminen</h3>
+
+<h3>1.16 Kupera ja kovera linssi</h3>
+
+<div class="teoria">
+<p>Dioptria: \(  D = \frac1f \), missä \(f \) on polttoväli.</p>
+
+<p>
+Dioptrioille pätee yhteenlaskulaki \( D = D_1 + D_2 \), esimerkiksi kahden linssin \(D_1 = 3 \) dpt ja \( D_2 = 2\) dpt yhteenlaskettu dioptrialuku on, kun linssit laitetaan oikein peräkanaa on \( D = D_1 + D_2 = 3 + 2 = 5\) dpt. 
+</p>
+
+</div>
+
+
+<ol>
+<li>Mikä on dioptria-luku linssille, jonka polttoväli on \(f=50\) cm.</li>
+
+<li>Linssisysteemin polttoväli on 40 cm. Toisen linssin polttoväli on 25 cm. Mikä on toisen lissin dioptrialuku?</li>
+</ol>
+
+<h3>1.17 Kuva. Suurennuslasi</h3>
+
+<div class="teoria">
+<p>Lukiossa opit <em>linssintekijän yhtälön</em></p>
+$$ \frac1f = \frac1a + \frac1k$$
+missä \(a\) on esineen etäisyys ja \(k\) on kuvan etäisyys linssistä
+</div>
+
+
+<h3>1.18 Kuvan muodostuminen</h3>
+
+<h3>1.19 Silmät, silmälasit. Likinäköisyys ja kaukotaitteisuus </h3>
+<ol>
+<li>Henkilö, joka käyttää normaalisti silmälaseja, joiden taittovoimakkuus on \(-4\) dpt ostaa sukelluslasit. Tarvitseeko hän vedessä suuremman vai pienemmänn taittovoimakkuuden lasit?</li>
+
+</ol>
+
+<h3>1.20 Kamera. Mikroskooppi</h3>
+
+<ol>
+<li>Kameran valokennossa on 8 megapikseliä. Kuinka monta "solua" kennossa on?</li>
+
+<li>Haluat ottaa kuvan autosta, jonka nopeus on\(90\) km/h. Kuinka pitkä valotusaika kamerassasi voi olla, jotta kuvasta tulee tarkka? Kuva on tarkka, jos se 
+ei liiku yli \(s = 0.1\)mm kennolla. Auto liikkuu kohtisuoraan optisen akselin suhteen, ja on \(a=10\) m:n päässä linssistä. Kuva muodostuu valokennolle, joka on \( k = 5\) cm linssistä. Katso linssintekijän yhtälö kappaleesta 1.17.
+
+</li>
+
+<li>Valokuvaat veden virtausta korkeassa vesiputouksessa. Vesipisarat välkkyvät, ja muodostavat pitkiä pystysuuntaisia vanoja kuviin. Kun kamera on maisemakuvausasennossa (vaakasuorassa), vanat ovat \(l_1 = 120\) pikseliä pitkiä. Kuinka pitkät ne ovat, kun kamera käännetään henkilökuvausasentoon (portretti) eli \(90^\circ\) astetta optisen akselin suhteen? Oleta, että valotusaika ja optisen akselin suunta on sama molemmissa tapauksissa.
+
+    <em>Vihje.</em> Kamera koostuu linssistä ja sulkijasta, sekä kennosta. Kun otat kuvan, kameran sulkija avautuu, jolloin valo pääsee kulkemaan kohteesta linssin kautta valokennolle. Sulkija sulkeutuu valotusajan kuluttua, eikä kennolle enää tule valoa (tämä siis DLSR, kännykamera ja pokkari toimivat eri tavalla). Sulkija on mekaaninen laite, joka koostuu kahdesta verhosta, jotka aukeavat, toinen ylös- ja toinen alaspäin. Mekanismissa on kaksi verhoa, jotta se ehtii toimimaan myös lyhyillä valotusajoilla, ja valo tulee tasaisemmin kennolle. Kuvaa otettaessa kennommainen sulkija avautuu kokonaan, ja etummainen alkaa avautua. Ensimmäinen sulkija lähtee menemään kiinni jo ennen kuin toinen on kokonaan auki, jos valotusaika on lyhyt. Sulkijan verho liikkuu tasaisella nopeudella \( v \), ja lyhyellä valotusajalla, valokaistale kulkee kennolla samalla nopeudella \( v \).
+
+</li>
+
+</ol>
+
+<h3>1.21 Kaukoputki</h3>
+
+<h3>1.22 Google-lasit ja lisätty todellisuus</h3>
+
+
+</div>
+
+<div class="mekaniikka">
+    <h2>Mekaniikka</h2>
+
+<h3>2.1 Massa on kappaleen hitauden mitta</h3>
+
+<h3>2.2 Aineen tiheys</h3>
+
+<div class="teoria">
+<p>Tiheys \( \rho\) on massan \(m\) ja tilavuuden \(V\) suhde eli \( \rho = \frac mV \). Tiheyden yksikkö on kg/m\(^3\).</p>
+</div>
+
+<ol>
+    <li>Kappaleen massa on 1 kg ja tilavuus on 400 cm\(^3\). Mikä on sen tiheys?</li>
+    <li>10 grammaa painava rautakuula päällystetään muovilla. Päällystämisen jälkeen kuulan massa on 15 grammaa. Mikä on muovilla päällystetyn kuulan keskimääräinen tiheys, kun muovin tiheys on \(1.4\) g/cm\(^3\)?</li>
+
+    <li>Kullankaivaja löysi kvartsikiteen, jossa on kultamalmia seassa. Hän ajatteli myydä koko kiteen, eikä erottaa siitä kultaa. Kultakauppias punnitsi ja mittasi kiteen, massa on \(m=100\) g ja sen tilavuus on \( V = 12.5\) cm\(^3\). (Tilavuuden saa helposti upottamalla sen veteen.) Kultakauppias lupasi maksaa ainoastaan kullasta. Hetken mietittyään hän sanoi, että kultaa on \( m_k' = 64\) g. Kuinka monta grammaa kultakauppias pimitti kullankaivajalta? Kullan tiheys on \(\rho_k = 19.3 \) g/cm\(^3\) ja kvartsin tiheys  \(\rho_{kv} = 2.7 \) g/cm\(^3\).</li>
+
+    <li>Vesiliukumäki rakennetaan mäen päälle valuttamalla vettä vesiletkusta liukumäkeen, jonka leveys on 1 m. Yhdessä sekunnissa letkusta tulee 1 \(\ell\) vettä, ja jään paksuus kasvaa nopeudella \(u = 0.05\) mm/s. Kuinka pitkä liukumäki voidaan tehdä? Veden tiheys on \(\rho_v = 1.00\) g/cm\(^3\) ja jään tiheys \(\rho_j = 0.92\) g/cm\(^3\).
+    ??? ?? ?    
+    (Tüdruk rajab mäenõlvale liumäge, kastes seda mäe otsast veega, mis mäe külge mööda l=1m laiuse ribana alla voolab. Sekundis tuleb voolikust v=1l vett, jääkiht kasvab paksusega u=0,05mm/s. Kui pika liuraja saab selliselt jääga katta? Vee tihedus ρv=1,00g/cm3, jää tihedus ρj=0,92g/cm3.)
+
+</li>
+
+    <li>Kappale painaa kolmanneksen vähemmän vedessä kuin ilmassa. Määritä kappaleen tiheys, kun veden tiheys on 1000kg/m\(^3\). </li>
+
+    <li>On kaksi samanpainoista kultasormusta, joissa molemmissa on 585 tuhannesosaa kultaa. Loput on esimerkiksi hopeaa tai kuparia. Kumpi sormus on tilavuudeltaan suurempi ja kuinka moninkertaisti, hopea- vai kuparilejeeringistä valmistettu? 
+        Kullan tiheys on \(\rho_k = 19300\) kg/m\(^3\), 
+        hopean tiheys on \(\rho_h = 10500\) kg/m\(^3\) ja 
+        kuparin tiheys on \(\rho_c = 8900\) kg/m\(^3\). Oleta, että lejeeringin tilavuus on kahden osatilavuuden summa (oikeasti se ei ihan ehkä ole).</li>
+
+    <li>Kolme erilaista nestettä tuotiin laboratorioon tutkittavaksi. Ensimmäisen massa on \(m_1 = 100\) mL, kolmannen tiheys on \(\rho_3 = 1270 \) kg/m\(^3\). Ensimmäisen ja toisen nesteen tiheyksien suhde on \(\frac{\rho_2}{ \rho_1 } = 1.27 \). Ensimmäisen ja toisen nesteen tilavuuksien suhde on \( \frac{V_2}{V_1} = 1.27 \). Kolmannen ja toisen nesteen tilavuuksien suhde on \( \frac{V_3}{V_2} = 1.27 \). Kolmannen ja toisen nesteen tiheyksien ero on \(\rho_3 - \rho_2 = 270\) kg/m\(^3\). Laske nesteiden massat \(m_1, m_2\) ja \(m_3\).
+
+
+    </li>
+
+</ol>
+
+
+<h3>2.3 Liike</h3>
+
+<div class="teoria">
+    <p>Nopeus \(v\) on matka \(s\) jaettuna ajalla \(t\) eli \( v = \frac st\).</p>
+
+<p>Nopeus on suhteellista, esimerkiksi jos kävelet junassa nopeudella \( v_i = 3\) m/s, ja junan nopeus on \(v_j = 20 \) m/s, niin nopeutesi maan suhteen on \( v = v_i  + v_j = 3 \text{ m/s}+ 20 \text{ m/s}= 23\) m/s jos menet junan kulkusuuntaan. Jos kuljet vastakkaiseen suuntaan, nopeutesi maan suhteen on \( v = v_j  - v_i = 20 \text{ m/s}- 3 \text{ m/s}= 17\) m/s</p>
+
+    </div>
+
+<ol>
+    <li>Nopeudella \(v_1=99\) km/h kulkeva autoilija huomaa edessään vastakkaista kaistaa lähestyvän auton, ja painaa sekuntikellon käyntiin. 40 sekunnin kuluttua autot kohtaavat (eri kaistoilla). Kuinka kaukana autot olivat toisiaan kun sekuntikello käynnistettiin? Toinen auto kulki nopeutta \(v_2 = 90 \) km/h. 
+
+    </li>
+
+
+
+    <li>Polkypyöräilijä ajaa keskimäärin 9 m/s. Kuinka kauan hänellä kestää ajaa 25 km pituinen matka?</li>
+
+
+    <li>Jokeen heitetty puupalikko valui virran mukana 5 minuutissa 120 metriä. Kuinka suuri on joen virtausnopeus? Oleta, että palikka ja virta kulkevat samalla nopeudella.</li>
+    
+    
+    <li>Erkki ja Einari lähtevät samaan aikaan Tartosta piknikille 25 kilometrin päähän. Erkki ajaa koko matkan vakionopeudella 30 km/h. Einari ajaa matkan nopeudella 35 km/h, mutta pitää puolivälissä 5 minuutin pysähdyksen. (1) Kumpi on ennemmin perillä? (2) Mikä on molempien pyöräilijöiden keskinopeus?</li>
+
+
+    <li>Vene ylitti 120 metriä leveän joen siten, että vene oli koko ajan kohtisuorassa joen kulkusuuntaan vastaan. Mikä on veneen keskinopeus virran suhteen, kun se rantautui vastarannalle 12 metriä lähtöpaikasta alavirtaan? Joen virtausnopeus on 0,8 m/s. </li>
+    
+    
+    
+    <li>Juna kulkee 90 km/h ja matkustaja kävelee siellä 4 km/h kulkusuuntaa vastaan. Mikä on kävelijän nopeus maan suhteen?</li>
+
+
+    <li>Kiihtyvälle liikkeelle pätee, että \(s = \frac12 at^2 \) ja  \(s = \frac{ v^2}{2a} \). Toisessa yhtälössä kuljettu matka on verrannollinen kiihtyvyyteen, mutta toisessa kääntäen verrannollinen. Miten selität tämän?</li>
+
+    <li>Laske, kuinka nopeasti vesipisara putoaa ilmassa terminaalinopeudella (eli vakionopeudella, se ei enää kiihdy). Vaesipisaran ilmanvastus on \(F_v = k Sv^2\), missä \(S\) on pisaran otsapinta-ala ja \(k\) on vakio. </li>
+
+    <li></li>
+
+
+</ol>
+
+
+<h3>2.4 Liikkeen kuvaaja</h3>
+
+<ol>
+    <li>Metro kulkee kahden pysäkin välisen matkan keskinopeudella 36 km/h. Ensimmäiset 2/3 matkasta metrojuna kiihdyttää tasaisella kiihtyvyydellä huippunopeuteensa, ja sen jälkeen aloittaa hidastamisen seuraavaa pysäkkiä varten. Mikä on junan maksiminopeus? Piirrä tilanteesta kuvaaja.</li>
+
+    <li>Laiva kulkee kahden kaupungin väliä virtaa pitkin alavirtaan 3 tunnissa ja ylävirtaan viidessä tunnissa. Mikä on joen virtausnopeus?</li>
+ 
+<div class="row">
+    <div class="four columns">
+        <li>Kuvaajaan on piirretty auton nopeus ajan funktiona. Laske auton keskimääräinen nopeus.
+            </li>
+    </div>
+    <div class="eight columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/20597"><img src="img/fysiikka/nopeusAikaAuto.png" alt="" class="u-full-width"></a>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="four columns">
+        <li>Auton nopeus on piirretty kuvaajaan. Laske auton kulkema matka. <em>Vihje:</em> Muista pinta-alatulkinta.
+            </li>
+    </div>
+    <div class="eight columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/20604"><img src="img/fysiikka/nopeusAikaAuto2.png" alt="" class="u-full-width"></a>
+    </div>
+
+</div>
+
+
+
+<div class="row">
+    <div class="four columns">
+        <li>Graafissa on piirrettynä liikkuvan kappaleen nopeus ajan funktiona. (1) Mikä oli kappaleen suurin etäisyys lähtöpaikasta? (2) Kuinka kaukana kappale oli lähtöpisteestä havaintojakson lopussa?
+            
+            </li>
+    </div>
+    <div class="eight columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/20594"><img src="img/fysiikka/nopeusAikaAuto3.png" alt="" class="u-full-width"></a>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="four columns">
+        <li>Koulun 4&times;400m-viestijoukkueen juoksijoiden keskimääräiset juoksunopeudet näkyvät kuvassa. Mikä on joukkueen keskinopeus?
+            
+            </li>
+    </div>
+    <div class="eight columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/20598"><img src="img/fysiikka/viestijoukkue.png" alt="" class="u-full-width"></a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="four columns">
+        <li>Pyöräilijän nopeus on piirretty kuvaajaan. Milloin hän kiihdytti? Kuinka pitkän matkan pyöräilijä sotki matkan aikana?
+
+            </li>
+    </div>
+    <div class="eight columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/20600"><img src="img/fysiikka/pyorailija.png" alt="" class="u-full-width"></a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="four columns">
+        <li>Kuvassa on graafi pyöräilijän etenemisestä treenin aikana. Millä tiepätkällä pyöräilijällä oli suurin nopeus? Mikä oli se nopeus? Kuinka monta pysähdystä pyöräilijä piti? Kuinka kauan yhteensä hän piti taukoa? Mikä oli pyöräilijän keskipyöräilynopeus (poista tauot) 
+
+            </li>
+    </div>
+    <div class="eight columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/20620"><img src="img/fysiikka/pyorailija2.png" alt="" class="u-full-width"></a>
+    </div>
+</div>
+
+
+</ol>
+
+
+
+
+<h3>2.5 Vuorovaikutus</h3>
+
+<div class="teoria">
+   <p>Newtonin I ja III laki. </p> 
+
+</div>
+
+<ol>
+    <li>50 kiloa painava poika hyppää laiturilta veneeseen. Hyppynopeus on 6 m/s. Kuinka kovaa vene lähtee liikenteeseen. Veneen massa on 200 kg. <em>Vihje</em> Liikemäärä eli massan ja nopeuden tulo on vakio. </li>
+</ol>
+
+<h3>2.6 Gravitaatio</h3>
+
+<div class="teoria">
+   <p>Maanpinnan lähellä olevan kappaleen gravitaatiovoima on \( F_g = G = mg  \), missä \(g\) on gravitaatiokiihtyvyys \(g=9.81\) m/s\(^2\). </p> 
+
+</div>
+
+<ol>
+    <li>Mikä pitää kiven massan olla Marsissa, että sen gravitaatiovoima on sama kuin Maassa olevan 50 kg painavan kiven?
+        
+    </li>
+
+    <li>10 000 kilometrin korkeudella maanpinnasta gravitaatiovakion arvo on \( g = 1.49\) m/s\(^2\). Kuinka moninkertainen gravitaatio on 10 000 km korkeudessa verrattuna Maan pintaan? </li>
+    <li></li>
+</ol>
+
+<h3>2.7 Aurinkokunta</h3>
+
+<h3>2.8 Kitka ja kitkavoima</h3>
+
+<ol>
+    <li>Poika vetää perässään 8 metriä pitkää köyttä, josta 6 metriä on maassa. Koko köyden paino on 2 kg. Millä voimalla pojan täytyy köyttä vetää? Maan ja köyden välinen kitkakerroin on \(\mu =0.6\). Kitkakerroin on kitkavoiman suhde gravitaatiovoimaan.</li>
+</ol>
+
+
+<h3>2.9 Elastisuus ja muodonmuutokset</h3>
+<div class="teoria">
+    <p>Hooken laki \( F = k \Delta \ell \), missä \(k\) on verrannollisuuskerroin ja \( \Delta \ell\ ) on pituuden muutos.   </p> 
+ 
+ </div>
+
+ <ol>
+<li>Puista viivotinta taivutetaan 20 N voimalla. Kuinka suuri elastinen voima viivoittimeen generoituu?</li>
+<li>Jos joista vedetään 10 N voimalla, se venyy 5 cm. Kuinka pitkälle jousi venyy, jos sitä vedetään 15 N voimalla, olettaen Hooken lain voimassaolon.</li>
+
+<li>Autoa vedetään köydellä, jonka jäykkyys on 100 kN/m. Kuinka paljon köysi venyy, kun sillä hinataan 2 tonnia painavaa autoa kiihtyvyydellä 0.5 m/s\(^2\)? Kitkaa ei tarvitse ottaa huomioon.</li>
+
+
+<li>Kaksi erilaista jousta on kytketty seinään, ja niitä vedetään samalla voimalla. Toisen jousen jousivakio (jäykkyys) on 100 N/m ja se venyi 5 cm. Toinen jousi venyi 2 cm. Kuinka suuri on sen jousivakio?
+
+</li>
+
+<li>Kuinka suurella voimalla jousta painetaan, kun se painui 4 cm. Jousen jousivakio on 20 N/m.</li>
+
+<li>Kuminauha venyy 15 cm, kun siihen ripustetaan 100 g massa. Mikä on kumilenkin jousivakio?</li>
+
+ </ol>
+
+
+
+
+
+ <h3>2.10 Paine</h3>
+ <div class="teoria">
+     <p>Paine on voima jaettuna pinta-alalla; \(p  = \frac FA\). Paineen yksikkö on 1 pascal, Pa.  </p> 
+  
+  </div>
+
+<ol>
+    <li>Kuinka paljon suuremman paineen tuottaa 50-kiloinen koululainen, kun hän keikkuu tuolissa, kuin jos kaikki tuolin neljä jalkaa ovat maassa? Jos kaikki jalat ovat maassa, pinta-ala on n. 3 cm\(^2\), mutta keikkuen se on 0.1 cm\(^2\).</li>
+
+    <li>Naulaa, jonka pään pinta-ala on 1 mm\(^2\), lyödään vasaralla. Kuinka suuren paineen naulankärki tuottaa lautaan, kun vasarasta tuleva voima on 150 N?</li>
+
+    <li>Mikä on suurin paine, minkä voit saada aikaiseksi puisesta särmiöstä, jonka mitat ovat 2 cm &times; 3 cm &times; 4 cm? Olkoon puun tiheys \(\rho = 450 \) kg/m\(^3\).</li>
+
+    <li>Mikä on tiilisen savupiipun suurin korkeus, jos tiilen murtolujuus (suurin sallittu paine) on 50 N/ m\(^2\)? Tiilen tiheys on \(\rho = 1500\) kg/m\(^3\) ja sen koko on \( 285 \times 135 \times 75 \) mm\(^3\).</li>
+
+    <li>On kaksi samankokoista kuutiota, jotka ovat erivärisiä ja eritiheyksisiä. Kun musta kuutio laitetaan mittalaitteelle(?), se näyttää \(p_m = 100 \) kPa. Kun molemmat kuutiot mitataan päällekkäin (musta kuutio mittalaitteella ja valkoinen mustan päällä) veden alla, mittalaite näyttää lukemaa \( p = 110 \) kPa. Laske valkoisen kuution tiheys \(\rho_v \), kun mustan kappaleen tiheys on \( \rho_m = 2\rho_v \). Veden tiheys on \(\rho = 1\) g/cm\(^3\).
+
+
+    </li>
+
+    <div class="row">
+        <div class="six columns">
+            <li>Tikapuille on asennettu pitkä pattinki. Pattinkin vasemmassa päässä roikkuu massa \(m\), ja pattinkin pituus tukipisteestä vasemmalle on \(l_1\). Pattinkin oikeassa päässä on tikku, joka estää pattinkia kaatumasta. Jos tikkuun kohdistuva paine on suurempi kuin \(p\), se katkeaa. Tikun poikkipinta-ala on \(S\). Kuinka pitkälle tukipisteestä oikealle tukitikkua voidaan siirtää, jotta paine ei ylitä arvoa \(p\)? Katkeaako tikku, jos se on lähempänä kuin äsken laskemasi kriittinen mitta?
+
+
+            </li>
+
+        </div>
+        <div class="six columns">
+             <a href="https://opik.fyysika.ee/index.php/exp/display/12817"><img class="u-full-width" src="img/fysiikka/paineTikapuut.png"> </a>  
+
+        </div>
+
+    </div>
+
+<li>Kuinka paljon auto painuu omasta painostaan? Auton massa on \(1.5\) tonnia, renkaiden leveys \( d = 18\) cm, renkaiden paine \( p = 3.0 p_0\), missä \(p_0 = 10^5\) Pa on ilmakehän paine. Renkaan ulkokehän säde on \(R =25 \) cm. Älä huomioi jousten painumaa.
+
+
+</li>
+
+
+</ol>
+
+<h3>2.11 Pascalin laki</h3>
+
+<div class="teoria">
+    <p>Paine leviää nesteessä tai kaasussa joka suuntaan samalla tavalla.  </p> 
+  </div>
+
+<h3>2.12 Hydrostaattinen paine</h3>
+
+  <div class="teoria">
+      <p>Hydrostaattinen paine \(\rho\) syvyydellä \(h\) nesteessä, jonka tiheys on \(\rho\) on  </p>
+      \( p = \rho g h  \) 
+    </div>
+  
+<ol>
+    <li>Kuinka suuren paineen tuottaa 200 cm\(^3\) vettä sylinterin muotoisessa lasissa, kun lasin pohjan pinta-ala on \(25\) cm\(^2\)? Veden tiheys on \( \rho = 1000 \) kg/m\(^3\).</li>
+ 
+    <li>Kuinka suuri paine kohdistuu sukellusveneen seiniin, kun se sukeltaa Mariaanien hautaan?</li>
+
+    <div class="row">
+     <div class="six columns">
+        <li>Veteen pystysuorassa, mutta osittain upotettuun lasiputkeen, jonka vedessä oleva pää on suljettu vesitiiviisti levyllä, kaadetaan petroolia. Putkea on vedessä 36 mm. Petrooli, jonka tiheys on \(\rho_p = 800 \) kg/m\(^3\) kaadetaan varovasti lasiputkeen. Kuinka korkealle petroolin pinta nousee, kunnes levy irtoaa lasiputkesta. Älä huomioi levyn massaa. Veden tiheys on \(\rho_v = 1000\) kg/m\(^3\). 
+        </li>
+    </div>    
+    <div class="five columns">
+        <a href="https://opik.fyysika.ee/index.php/exp/display/203312"><img class="u-full-width" src="img/fysiikka/paineKerosiini.png"> </a>
+
+    </div>
+
+</div>
+    <li>Ohut, kaksi-metrinen (pohjasta tulpattu) metalliputki täytetään ruokaöljyllä. Kuinka suuren paineen öljy aiheuttaa korkkiin, kun putki nostetaan ylös? Ruokaöljyn tiheys on \( \rho = 900 \) kg/m\(^3\).
+
+    </li>
+
+    <div class="row">
+        <div class="six columns">
+           <li>
+Kaksi identtistä sylinterin mallista kippoa, joiden pohjan pinta-ala on \(S_0 = 30\) cm\(^2\), on yhdistetty toisiinsa putkella, jonka pituus on \(l = 50\) cm\(^2\), ja poikkileikkauksen pinta-ala on \(S_1 = 4\) cm \(^2\). Putki on korkeudella \(h_0 = 10 \) cm kippojen pohjasta. Molempiin kippoihin kaadetaan erilaista nestettä. Vasempaan kippoon kaadetaan nestettä, jonka tiheys on \(\rho_1 = 900\) kg/m\(^3\) ja oikean kipon nesteen tiheys on \(\rho_2 = 1100 \) kg/m\(^3\). Vaakaputken keskellä on pieni liikkuva osa, joka estää nesteiden sekoittumisen. Aluksi osa on paikallaan, mutta mihi suuntaan ja kuinka pitkälle se kulkeutuu, kun se päästetään vapaaksi?
+           </li>
+       </div>    
+       <div class="five columns">
+           <a href="https://opik.fyysika.ee/index.php/exp/display/12928"><img class="u-full-width" src="img/fysiikka/paineKaksikippoa.png"> </a>
+   
+       </div>
+   
+   </div>
+
+    <li>Kuutionmallinen kippo, jonka sivun pituus on \(a=36\) cm on täytetty vedellä ja kerosiinilla. Nesteiden massat ovat samat. Kuinka suuri paine kipon pohjaan aiheutuu? Veden tiheys on \(\rho_v = 1000\) kg/m\(^3\) ja kerosiinin \(\rho_k = 800\) kg/m\(^3\). </li>
+
+
+    <li>Kaksi yhdistettyä kippoa, joiden halkaisijat ovat \(d_1\) ja \(d_2\) on täytetty nesteellä, jonka tiheys on \(\rho\). Kuinka paljon nestepinta nousee kipoissa, kun kappale, jonka massa on \(m\) ja tiheys pienempi kuin nesteen massa, laitetaan toiseen kippoon??? <a href="https://opik.fyysika.ee/index.php/exp/display/12932">Alkup</a></li>
+
+
+    <li>Kaksi identtistä sylinterinmallista kippoa on liitetty toisiinsa vaakasuoralla putkella, jonka pinta-ala on \(S=1\) cm\(^2\). Toisessa kipossa olevan nesteen tiheys on \(\rho_1 = 0.9 \) g/cm\(^3\), toisen \(\rho_2 = 1.1 \) g/cm\(^3\). Yhdysputken keskellä on vapaasti liikkuva mäntä, joka on alussa paikallaan. Kippojen nesteet päästetään samanaikaisesti kulkeutumaan kohti mäntää, molemmat nopeudella \(v_0 = 50\) cm\(^3\).. . .Mihin suuntaan ja millä nopeudella mäntä liikkuu? <a href="https://opik.fyysika.ee/index.php/exp/display/12924">Alkup.</a>
+
+
+    </li>
+
+    <li>Padon kantavan rakenteen pituus on \(l = 50\) m. Kuinka suuri kokonaisvoima työntää patoa (ja tukirakennetta), kun veden syvyys padon kohdalla on \(h=10\) m? Veden tiheys on \(\rho =1000\) kg/m\(^3\).</li>
+
+
+</ol>
+
+<h3>2.13 Manometri. Paineen mittaaminen.</h3>
+
+<div class="teoria">
+    <p>\( p= \rho g \Delta h + p_\text{atm} \).  </p> 
+  </div>
+
+
+  <ol>
+
+<div class="row">
+
+    <div class="six columns">
+        <li>U:n mallinen putki on osittain täytetty vedellä. Toiseen U:n haaraan kaadetaan 2 cm kerros ruokaöljyä. Kuinka paljon veden pinta nousee toisessa haarassa? Veden tiheys on \(\rho_v = 1000\) kg/m\(^3\) ja öljyn tiheys \(\rho = 900\) kg/m\(^3\).
+
+        </li>
+  
+    </div>
+    <div class="six columns">
+    <img class="u-full-width" src="img/fysiikka/manoUputkijpg.jpg">        
+    </div>
+</div>
+
+      <li>Kolmihaaraisessa U-putkessa (hmm...) on vettä. Kuinka paljon keskimmäisen putken veden pinta nousee, kun vasemmanpuoleiseen haaraan kaadetaan \( h_o = 10 \) cm öljyä ja oikeanpuoleiseen haaraan kaadetaan \(h_b = 20 \) cm petrolia. Öljyn tiheys on \( \rho_o = 840 \) kg/m\(^3\) ja petrolin tiheys on \( \rho_o = 720 \) kg/m\(^3\). Veden tiheys on tunnettu. Putkien halkaisijat ovat samat.  </li>
+
+      <li>U-putken yhden haaran poikkipinta-ala on \(S_1=5\) cm\(^2\) ja toisen haaran \(S_2=2\) cm\(^2\). Putkessa on vettä. Kuinka paljon bensaa täytyy kaataa paksumpaan haaraan, jotta kapeammassa haarassa vesi nousee \(h=25\) cm? Bensiinin tiheys on \(\rho = 710 \) kg/m\(^3\), veden tiheys on tuttu. </li>
+
+
+      <li>Vettä kaadetaan U-putkeen, jossa on identtiset haarat. Toiseen haaraan kaadetaan 10 cm korkea öljypatsas. Kerosiiniä kaadetaan toiseen haaraan siten, että molempien haarojen yläosat ovat samalla korkeudella. Kerosiini eikä öljy ei sekoitu veteen. Kuinka korkea on kerosiinipatsas U-putkessa? Veden tiheys on tuttu, öljyn tiheys on (\rho_o = 900 \) kg/\m\(^3\), ja kerosiinin tiheys  (\rho_o = 800 \) kg/\m\(^3\). </li>
+
+  </ol>
+
+
+<h3>2.14 Maan atmosfääri, ilmanpaine</h3>
+<div class="teoria">
+    <p>Normaali ilmanpaine (NPT) on 760 mmHg, eli 760 millimetriä elohopeapatsasta elohopeailmanpuntarissa. \(p=\rho g h \)   </p> 
+  </div>
+
+  <ol>
+
+<li>Kuinka paljon ilmanpaine poikkeaa Tallinnan tv-tornin huipulla verrattuna maan pinnan lukemaan. Tv-tornin korkeus on 190 metriä.    
+</li>
+
+
+  </ol>
+
+
+
+
+  <h3>2.15 Noste</h3>
+  <div class="teoria">
+      <p> \(F_N=\rho V g \)   </p> 
+    </div>
+  
+    <ol>
+<li>Kuinka suurella voimalla pitää 104 kiloa painavaa kiveä nostaa, jotta sen saat veden alta ylös? Graniitin tiheys on \(\rho = 2.6\) g/cm\(^3\).
+    </li>
+
+    <li>Kippo on piripintaan täynnä vettä. Kun laitat sinne hyvin varovasti puupalasen, jonka massa on 50 g ja tiheys 0.7 g/cm3, vettä valuu reunojen yli. Kuinka paljon?
+    </li>
+
+    <li>Puinen lautta kelluu vedessä. Lautan pinta-ala on 10 m\(^2\) ja paksuus 20 cm. Kuinka paljon painoa (massaa) lautalle voi laittaa ilman että se uppoaa kokonaan. Lauttapuun tiheys on 0.7 g/cm\(^3\).
+    </li>
+
+    <li>Ihmisen keho painaa vedessä vain kolmasosan siitä kuin ilmassa. Mikä on ihmisen tiheys? Veden tiheys on tuttu.
+    </li>
+
+    <li>Tasakoosteisesta aineesta valmistettu kappale roikotetaan dynamometristä. Kun kappale laitetaan nesteeseen, jonka tiheys on \(\rho_1\), dynamometri näyttää lukemaa \(P_1\). Jos nesteen tiheys on \(\rho_2\), dynamometri näyttää arvoa \(P_2\). Mikä on kappaleen tiheys?
+    </li>
+
+<div class="row">
+<div class="six columns">
+    <li>
+Ilmapallo, jonka tilavuus on \(V=2\) m\(^3\) täytetään \(m=200\) g heliumia. Ilmapallon kuoren massa on \(M=180\) g. Kuinka korkealle ilmapallo nousee. Oheisessa graafissa on ilman tiheys korkeuden funktiona. Oletetaan ilmapallon tilavuus vakioksi. 
+</li>
+</div>
+<div class="six columns">
+<a href="https://opik.fyysika.ee/index.php/exp/display/12914"><img class="u-full-width" src="img/fysiikka/nosteIlma.png"></a>    
+</div>
+</div>
+
+<div class="row">
+    <div class="six columns">
+        <li>
+    Köyteen on kytketty puomi, jonka molemmissa päissä on paino. Puomi on tasapainossa, ja nosturi laskee painot veteen, mutta puomi jää veden päälle. Tietenkin tasapaino katoaa, mutta työntekijä rikkoo työsuojelulakia ja kiipeää ylhäällä olevan puomin päähän, ja puomi tulee jälleen tasapainoon. Mitkä ovat massat \(m_1\) ja \(m_2\)? Työntekijän massa on 80 kg ja veden tiheys tuttu.
+    </li>
+    </div>
+    <div class="six columns">
+    <a href="https://opik.fyysika.ee/index.php/exp/display/12911"><img class="u-full-width" src="img/fysiikka/nosteKraana.png"></a>    
+    </div>
+    </div>
+    
+<li>Narussa tasapainossa roikkuvan tikun (pituus \(d_1=49\) cm) toiseen päähän sidotaan hapella täytetty ilmapallo. Mihin kohtaan tikkua pitää laittaa heliumpallo sitoa, jotta tikku pysyy tasapainossa (vaakatasossa)? Hapen tiheys on \( \rho_i = 1,54\) kg/m\( ^3\), heliumin tiheys on \( \rho_h = 0.19\) kg/m\( ^3\) ja ilman tiheys \(\rho = 1,16\) kg/m\(^3\). Pallomateriaalien massa jätetään huomiotta.
+
+</li>
+
+<li>
+1.2 grammaa painavaan korkkiin on liitetty 4,4 grammainen rautapala. Kun tämä härpäke laitetaan vesiastiaan, se keijuu (eli pysyy siinä syvyydessä, mihin se laitetaan). Mikä on korkkipuun tiheys, kun raudan tiheys on 7.8 g/cm\(^3\)?
+
+</li>
+
+<li>
+Tasasivuisen kolmion jokaiseen nurkkaan (A, B, C) kytketään samansuuruiset pallot, joiden tiheys on 0.5, 1.0 ja 1.2 g/cm\(^3\). Mikä on sivun AB ja vedenpinnan välinen kulma, kun vekotin on vedessä???
+
+</li>
+
+<div class="row">
+<div class="six columns">
+    <li>Vaa'an päällä kippo vettä. Sen päällä roikkuu jousivaaka, jossa on massa \(m\). Molempien vaakojen lukemat ovat samat. Kuinka paljon lukemat poikkeavat, kun jousivaakaa nostetaan, eikä massa ole enää vedessä? Veden tiheys on \(\rho_v\) ja massan tiheys on \(\rho\). </li>
+
+</div>
+<div class="six columns">
+<a href="https://opik.fyysika.ee/index.php/exp/display/12901"><img src="img/fysiikka/nosteJousivaaka.png" alt="">
+</a>
+</div>
+
+</div>
+
+
+<li>tyhjä pönttö kelluu vedessä, siten että 1/10 siitä on pinnan alla. Pönttö täytetään tuntemattomalla nesteellä, ja 9/10 siitä on täyttämisen jälkeen pinnan alla. Mikä on nesteen tiheys? Veden tiheys on 900 kg/m\(^3\).
+
+</li>
+
+    </ol>
+
+
+<h3>2.16 Kelluminen ja uppoaminen</h3>
+
+<ol>
+<li>
+Kolmelitrainen hedelmäkulho painaa 200 grammaa. Kulho laitetaan veteen uimaan. Kuinka monta kiloa sinne voi laittaa hedelmiä, että se vielä kelluisi? 
+</li>
+
+<li>
+Kuinka paljon jäävuoresta on veden alla? Jään tiheys on \(0.9\) g/cm\(^3\) ja meriveden tiheys \(1030\) kg/m\(^3\).    
+</li>
+
+<li>
+    Metallinen ontto teräskuula kelluu vedessä siten, että tasan puolet siitä on vedessä. Kuinka suuri osa kuulan tilavuudesta on tyhjää? Teräksen tiheys on \(7800\) kg/m\(^3\) ja veden tiheys on \(1000\) kg/m\(^3\). Ilman massa voidaan jättää huomiotta.
+    
+</li>
+
+<li>
+Mikä pitää olla puisen 40 senttimetriä paksun lautan pinta-ala, että kantaa painon \(F=400\) N? Lautta saa upota 38 sentti. Puun tiheys on \(\rho_p = 0.9\) g/cm\(^3\). Veden tiheys on \(\rho_p = 1\) g/cm\(^3\).
+
+</li>
+
+<li>
+    Ensimmäinen sukellusvene <em>Torpedo</em> (rak. 1780-luvulla), oli iso tynnyri, johon mahtui kapteeni, ruorimies ja kuusi soutajaa, jotka pyörittivät kampiakselia. Kuinka paljon vettä pitää laivassa olla, jotta se uppoaa? Miesten keskimääräinen massa on 80 kg, tynnyrin ulkoläpimitta on 1 m ja pituus 6,40 m, sekä miehittämätön massa 3000 kg.
+</li>
+
+<li>
+    Vedessä (tiheys \(\rho_v = 1.0\) kg/dm\(^3\)) kelluu kuution muotoinen kappale . Kappaleen alapuoli on jäätä (tiheys \(\rho_j = 0.9\) kg/dm\(^3\)) ja yläpuoli vaahtokumia (tiheys \(\rho_j = 0.3\) kg/dm\(^3\)). Kuution sivun pituus on 4 cm. Kun jää sulaa, miten muuttuu kappaleen yläpinnan korkeus vedenpinnasta?
+</li>
+
+<li>
+Jääkarhu (\( M=700\) kg) ajelehtii jäälautalla keskellä napajäätikön reunaa, kun hän huomaa vieressä uivan päivän lounaan. Paljain käsin hän tappaa hylkeen (\( m=70\) kg), ja repii sen lautalle ruokahetkeä varten. Kuitenkin, jääkarhu huomaa, että kun hän on saanut hylkeen lautalle, jäälautta uppoaa veden alle. Ennen pyyntiurakan aloittamista 99% prosenttia jäälautasta oli veden alla. Mikä on jään tiheys? Olkoon veden tiheys \(\rho_v = 1\) g/cm\(^3\). 
+
+</li>
+
+<li>
+Lammessa on lautta, jonka pinta-ala on \(S=3\) m\(^2\). 70 kg painoinen henkilö makoilee lautalla (ja lukee fysiikkaa). Laske lautan paksuus, kun sen yläreuna on tasan veden pinnan tasolla. Puun tiheys on \(\rho_p = 400\) kg/m\(^3\) ja veden tiheys \(\rho_v = 1000\) kg/m\(^3\).
+</li>
+
+</ol>
+<h3>2.17 Mekaaninen työ ja energia</h3>
+<div class="teoria">
+    <p> Työ on \(W=Fs \), missä \(F\) on voima ja \(s\) matka.    </p> 
+  </div>
+
+
+<ol>
+<li>Kuinka suuren työn koira tekee vetämällä rekeä 100 m? Reen massa on 150 kg ja kitkavoima reen ja lumen välillä on 3% reen graavitaatiovoimasta. </li>
+<li>Kuinka paljon teet mekaanista työtä nostaessasi 50 kilon painoa 10 kertaa puolimetria ilmaan (mave)?</li>
+<li>Kuinka suuren työn teet, kun kaivat 6 m pitkän, 2 m syvän ja 0.5 m leveän kuopan maahan. Maan keskimääräinen tiheys on 2000 kg/m\(^3\).</li>
+<li>Auto ajaa nopeutta 90 km/h 100 km matkan. laske tarvittavan polttoaineen määrä, kun polttoaineen palamislämpö on \(\rho = 35\) MJ/l.</li>
+
+<li>Pienen lammen vesi pitää pumpata säiliöön, jonka tilavuus on \(V=200\) litraa. Vesi pumpataan putkella, jonka halkaisija on \(S = 0.005 \) m\(^2\). Vesi pitää ohjata kuitenkin \(h=5\) m korkean aidan yli. Kuinka suuri työ pitää tehdä, jotta pieni lammikko saadaan tyhjäksi?</li>
+
+<li>Suorakulmainen laatikko, jonka syvyys on \(H\) ja pohjan pinta-ala \(S\) on täynnä vettä. Pumppu pumppaa veden pois laatikosta pois putkea pitkin, jonka halkaisija on \(R\). Kuinka suuren työn \(W\) pumppu tekee, että se saa veden pois ajassa \(t\)? <em>Huom</em> Kineettinen energia on \(E_k = \frac12 mv^2\).</li>
+
+
+
+</ol>
+
+
+
+<h3>2.18 Kineettinen ja potentiaalienergia</h3>
+<div class="teoria">
+    <p> \(E_p = mgh \) ja \(E_k = \frac12 mv^2\). Kokonaisenergia säilyy, eli \(E = E_k + E_p\).    </p> 
+  </div>
+
+
+<ol>
+<li>Millä nopeudella 100-grammaista palloa pitää lyödä, jotta se lentää neljän (4) metrin korkeuteen?    
+</li>
+
+<li>100 grammaa painava omeva roikkuu puun oksassa ja putoaa kahden metrin korkeudelta maahan. Mikä on omenan kineettinen ja potentiaalienergia juuri ennen maahan putoamista?  
+</li>
+
+<li>Pingispallo (halkaisija \(d=30\) mm ja massa \(m=5\) g) painettiin veden pinnan alle syvyyteen \(H=30\) cm. Kun se päästettiin sieltä, se hyppäsi korkeudelle \(h=10\) cm veden pinnasta. Kuinka paljon energiaa hävisi kitkaan ja lämpöön? Ilmanvastus oletetaan mitättömäksi, veden tiheys on \(\rho_v = 1000\) kg/m\(^3\).
+</li>
+
+
+
+
+</ol>
+
+
+<h3>2.19 Teho</h3>
+<div class="teoria">
+    <p> \(P = \frac Wt \), missä \(W\) on työ ja \(t\) on työhön kulutettu aika.    </p> 
+  </div>
+
+<ol>
+<li>
+Kuinka suuri keskimääräinen teho tarvitaan, että 2 sekunnissa saat nostettua 50 kiloa painavan kiven 0,4 metrin korkeuteen?
+</li>
+
+
+<li>
+Voimailija tempaisee 180 kiloa painavan tangon 2 metrin korkeuteen 2 sekunnissa? Mikä oli keskimääräinen teho?
+</li>
+
+
+<li>
+    Haarukkatrukin teho on 5 kW. Kuinka suuren massan sillä voi nostaa 5 metrin korkeuteen 30 sekunnissa?
+</li>
+
+
+<li>Laske auton bensankulutus 100 kilometria kohti, kun sillä ajetaan nopeutta 90 km/h. Moottori tuottaa tehon 58 kW. Bensan lämpöarvo on 35 MJ/litra. Oleta, että kaikki lämpö siirtyy auton liikuttamiseen.
+    
+</li>
+
+
+<li>
+    Kuinka paljon lentokone kuluttaa energiaa lentäessään 500 km nopeudella 500 km/h, kun moottoreiden keskimääräinen teho on 2000 kW. Yhdestä kilogrammasta lentopetroolia saadaan energiaa \(4.6\times10^7\) J, josta 25% saadaan muutettua hyötytyöksi. 
+</li>
+
+<li>
+    Auto, jonka moottorin teho on 30 kW saavuttaa maksiminopeuden 15 m/s. Toisen auton teho on 20 kW pääsee 10 m/s. Millä nopeudella nämä kaksi autoa köydellä toisiinsa kytkettynä kulkevat? Oleta, että autot kulkevat täydellä teholla ja ajavat samaan suuntaan, ja että vastusvoimat ovat vauhdista riippumattomat.???
+
+</li>
+
+</ol>
+
+
+
+
+</div>
+
+
