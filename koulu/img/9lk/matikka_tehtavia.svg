@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="matikka_tehtavia.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="330.53988"
+     inkscape:cy="499.06222"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="986"
+     inkscape:window-height="1080"
+     inkscape:window-x="686"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.04978848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-0.32920963"
+       y="12.945166"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="-0.32920963"
+         y="12.945166"
+         style="stroke-width:0.26458332">Sivu 91, t93</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.348656,28.394125 V 67.148206 H 190.83044 Z"
+       id="path14"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.925144"
+       y="49.508415"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="25.925144"
+         y="49.508415"
+         style="stroke-width:0.26458332">30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95.949753"
+       y="75.968102"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="95.949753"
+         y="75.968102"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.417736"
+       y="39.084908"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="37.417736"
+         y="39.084908"
+         style="stroke-width:0.26458332">30<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan28">o</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.6126595"
+       y="81.046219"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="5.6126595"
+         y="81.046219"
+         style="stroke-width:0.26458332">tan(30) = x/30    || 30</tspan><tspan
+         sodipodi:role="line"
+         x="5.6126595"
+         y="89.865662"
+         style="stroke-width:0.26458332"
+         id="tspan34">30 tan(30) = x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.83241749px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.0246263"
+       y="108.43818"
+       id="text38"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         x="2.0246263"
+         y="108.43818"
+         style="stroke-width:0.26458332">Sivu 92, t103</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.946495"
+       y="91.469734"
+       id="text42"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="64.946495"
+         y="91.469734"
+         style="stroke-width:0.26458332">Laske laskimella loput.</tspan></text>
+    <rect
+       style="opacity:0.6;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.76499999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect44"
+       width="64.679222"
+       height="37.150467"
+       x="117.33132"
+       y="122.20573" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.04596,125.68023 h 81.51721 l -39.02135,-16.03617 z"
+       id="path46"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="149.9382"
+       y="101.09144"
+       id="text50"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         x="149.9382"
+         y="101.09144"
+         style="stroke-width:0.26458332">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.94598"
+       y="122.473"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan52"
+         x="182.94598"
+         y="122.473"
+         style="stroke-width:0.26458332">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="149.67091"
+       y="128.35292"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         x="149.67091"
+         y="128.35292"
+         style="stroke-width:0.26458332">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 151.54182,109.64406 v 12.42803"
+       id="path60"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.33132,122.20572 h 64.67922"
+       id="path62"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.9576292px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.915413"
+       y="158.51971"
+       id="text66"
+       transform="rotate(-24.509345)"
+       inkscape:transform-center-x="1.6036172"
+       inkscape:transform-center-y="-1.6036172"><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         x="43.915413"
+         y="158.51971"
+         style="stroke-width:0.26458332">70cm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="141.51923"
+       y="162.29614"
+       id="text70"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         x="141.51923"
+         y="162.29614"
+         style="stroke-width:0.26458332">12m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.09895"
+       y="127.28384"
+       id="text74"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         x="162.09895"
+         y="127.28384"
+         style="stroke-width:0.26458332">6m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.381561"
+       y="129.68927"
+       id="text78"><tspan
+         sodipodi:role="line"
+         id="tspan76"
+         x="21.381561"
+         y="129.68927"
+         style="stroke-width:0.26458332">AB:CB = 1:3  || 2</tspan><tspan
+         sodipodi:role="line"
+         x="21.381561"
+         y="138.50871"
+         style="stroke-width:0.26458332"
+         id="tspan84">AB:CB = 2m:6m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.30841351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="152.00629"
+       y="115.35597"
+       id="text82"><tspan
+         sodipodi:role="line"
+         id="tspan80"
+         x="152.00629"
+         y="115.35597"
+         style="stroke-width:0.26458332">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.01973295px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="148.82422"
+       y="119.53303"
+       id="text88"><tspan
+         sodipodi:role="line"
+         id="tspan86"
+         x="148.82422"
+         y="119.53303"
+         style="stroke-width:0.26458332">2m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.6817384"
+       y="148.66541"
+       id="text92"><tspan
+         sodipodi:role="line"
+         id="tspan90"
+         x="6.6817384"
+         y="148.66541"
+         style="stroke-width:0.26458332">Hypotemuusan voi laskea.</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="157.48485"
+         style="stroke-width:0.26458332"
+         id="tspan96">sinillä, kosinilla tai tangentilla,</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="166.30429"
+         style="stroke-width:0.26458332"
+         id="tspan100">jos ensin lasket yhden kulman.</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="175.12373"
+         style="stroke-width:0.26458332"
+         id="tspan102">Mutta, ilman kulman laskemista hypotenuusa saadaan</tspan><tspan
+         sodipodi:role="line"
+         x="6.6817384"
+         y="183.94318"
+         style="stroke-width:0.26458332"
+         id="tspan104"><tspan
+   style="font-weight:bold"
+   id="tspan106">Pythagoraalla</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="51.850288"
+       y="197.0412"
+       id="text110"><tspan
+         sodipodi:role="line"
+         id="tspan108"
+         x="51.850288"
+         y="197.0412"
+         style="stroke-width:0.26458332">a<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan116">2</tspan>+b<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan114">2</tspan>=c<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan112">2</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="51.850288"
+         y="205.86064"
+         style="stroke-width:0.26458332"
+         id="tspan118">2<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan122">2</tspan>+6<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan124">2</tspan>=c<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan126">2</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="51.850288"
+         y="214.68008"
+         style="stroke-width:0.26458332"
+         id="tspan120">4 + 36 = c<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan128">2</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="51.850288"
+         y="223.49953"
+         style="stroke-width:0.26458332"
+         id="tspan130">40 = c<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan134">2</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="51.850288"
+         y="232.31897"
+         style="stroke-width:0.26458332"
+         id="tspan136">6,3 ~= c</tspan><tspan
+         sodipodi:role="line"
+         x="51.850288"
+         y="241.13841"
+         style="stroke-width:0.26458332"
+         id="tspan138" /><tspan
+         sodipodi:role="line"
+         x="51.850288"
+         y="249.95787"
+         style="stroke-width:0.26458332"
+         id="tspan132" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="113.05501"
+       y="192.76488"
+       id="text142"><tspan
+         sodipodi:role="line"
+         id="tspan140"
+         x="113.05501"
+         y="192.76488"
+         style="stroke-width:0.26458332">Lappeen pituus on </tspan><tspan
+         sodipodi:role="line"
+         x="113.05501"
+         y="201.58432"
+         style="stroke-width:0.26458332"
+         id="tspan144">hypotenuusa (6,3 m) plus</tspan><tspan
+         sodipodi:role="line"
+         x="113.05501"
+         y="210.40376"
+         style="stroke-width:0.26458332"
+         id="tspan146">ylitys (0,7 m) eli 7,0 m.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.56626701px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.9598846"
+       y="243.64508"
+       id="text150"><tspan
+         sodipodi:role="line"
+         id="tspan148"
+         x="9.9598846"
+         y="243.64508"
+         style="stroke-width:0.26458332">t104. <tspan
+   style="font-weight:bold"
+   id="tspan152">Jänne</tspan></tspan></text>
+    <circle
+       style="opacity:0.6;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.76499999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path154"
+       cx="121.44375"
+       cy="248.58125"
+       r="27.78125" />
+    <path
+       id="circle156"
+       style="opacity:0.6;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.76499999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc"
+       sodipodi:cx="121.44375"
+       sodipodi:cy="248.58125"
+       sodipodi:rx="27.78125"
+       sodipodi:ry="27.78125"
+       sodipodi:start="0.69638637"
+       sodipodi:end="5.3005649"
+       d="m 142.75656,266.40153 a 27.78125,27.78125 0 0 1 -38.3529,4.12131 27.78125,27.78125 0 0 1 -5.501729,-38.17933 27.78125,27.78125 0 0 1 37.956089,-6.87498 l -15.41427,23.11272 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.85802,225.46852 5.89853,40.933"
+       id="path158"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="141.06485"
+       y="233.20276"
+       id="text162"><tspan
+         sodipodi:role="line"
+         id="tspan160"
+         x="141.06485"
+         y="233.20276"
+         style="stroke-width:0.26458332">Jänne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.06564283px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="122.97199"
+       y="249.1707"
+       id="text166"><tspan
+         sodipodi:role="line"
+         id="tspan164"
+         x="122.97199"
+         y="249.1707"
+         style="stroke-width:0.26458332">100<tspan
+   style="font-size:3.29266763px;baseline-shift:super;stroke-width:0.26458332"
+   id="tspan168">o</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.44375,248.58125 18.40503,-3.03064"
+       id="path170"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
